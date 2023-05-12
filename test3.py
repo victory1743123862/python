@@ -5,7 +5,7 @@
 # @Software :PyCharm
 
 for i in range(5):
-    print(i)
+    print(i,)
 
 a = ['aa', 'bb', 'cc', 'dd']
 for i in range(len(a)):
